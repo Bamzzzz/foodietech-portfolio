@@ -1,4 +1,4 @@
-# Bentilzone Online Restaurant App
+# Foodietech Online Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)
@@ -29,5 +29,3 @@
 ![image](https://user-images.githubusercontent.com/55560024/173251737-ea9ba79f-c908-4785-bf55-53ebdcbac103.png)
 ![image](https://user-images.githubusercontent.com/55560024/173251742-093dff58-558d-4b81-9339-0f147951e827.png)
 ![image](https://user-images.githubusercontent.com/55560024/173251746-cd564b82-ec57-43fe-800f-e36e7ad8e2a0.png)
-
-## Features 
